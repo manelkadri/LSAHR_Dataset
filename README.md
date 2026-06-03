@@ -33,7 +33,7 @@ The following figures show the distribution of review polarities in both dataset
 
 The balanced dataset contains an equal distribution of reviews across the three sentiment classes: **Negative**, **Neutral**, and **Positive**.
 
-![Balanced Ratings Distribution](assets/images/rating_distribution_balanced.jpg)
+![Balanced Ratings Distribution](rating_distribution_balanced.jpg)
 
 | Sentiment Class | Number of Reviews | Percentage |
 | --------------- | ----------------: | ---------: |
@@ -47,7 +47,7 @@ The balanced dataset contains an equal distribution of reviews across the three 
 
 The unbalanced dataset reflects the original distribution of reviews, where **Positive** reviews represent the majority of the dataset.
 
-![Unbalanced Ratings Distribution](assets/images/rating_distribution_unbalanced.jpg)
+![Unbalanced Ratings Distribution](rating_distribution_Unbalanced.jpg)
 
 | Sentiment Class | Number of Reviews | Percentage |
 | --------------- | ----------------: | ---------: |
