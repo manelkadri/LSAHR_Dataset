@@ -148,4 +148,17 @@ This dataset can be used for several machine learning and NLP tasks, including:
 * The column `polarity_score` can be used as the sentiment label for classification tasks.
 
 
-Please check the repository license before using this dataset for academic, research, or commercial purposes.
+## Citation
+
+If you use the LSAHR dataset in your research, please cite the following paper:
+
+```bibtex
+@inproceedings{lagrini2026lsahr,
+  title     = {LSAHR: Large-Scale Arabic Hotel Review Dataset for Personalized Recommendation},
+  author    = {Samira Lagrini, Manel Kadri, Nourhene Kadri, Abir Selma Horchi and Deneche Mohamed Seif ElIslem},
+  booktitle = {Proceedings of the IEEE Conference},
+  year      = {2026},
+  note      = {Submitted}
+}
+```
+
